@@ -1,3 +1,5 @@
-# hello-world
+# Hello-World
 first steps with Github
-Created by RMB and hes AWESOME
+Created by RMB and hes AWESOME!
+
+I love :coffee: & :pizza: & :beer:
